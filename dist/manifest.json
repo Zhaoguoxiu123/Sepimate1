@@ -1,0 +1,23 @@
+{
+  "name": "SepiMate - Amino acid-based Intelligent Separation Materials",
+  "short_name": "SepiMate",
+  "description": "A Programmable Platform-based Library for Amino acid-based Intelligent Separation Materials",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#fffaf6",
+  "theme_color": "#f97316",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "science", "productivity"],
+  "screenshots": [],
+  "shortcuts": [],
+  "prefer_related_applications": false
+}
